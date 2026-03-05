@@ -11,4 +11,9 @@ Features:
 
 Perfect for syncing stereos, TVs, and headsets.
 
+## Download
 
+AudTrunIcs is an experimental Windows audio routing tool.
+
+If you decide to use it, the program will guide you to the official site
+where the latest builds and support information are available.
