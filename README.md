@@ -11,6 +11,4 @@ Features:
 
 Perfect for syncing stereos, TVs, and headsets.
 
-Download here:
 
-https://smileschat.com/coffee/
